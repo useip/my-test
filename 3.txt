@@ -1,0 +1,2 @@
+line 1 of feature bash
+line 2 of feature bash
